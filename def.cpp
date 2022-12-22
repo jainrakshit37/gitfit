@@ -8,6 +8,7 @@ int main(){
     for(int i=0;i<n;i++){
         cin>>a[i];
     }
+    #c
     int d=0;
     int e=0;
     for(int i=0;i<n;i++){
