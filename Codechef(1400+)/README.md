@@ -1,2 +1,2 @@
 # Codechef(1400+)
-contains codechef rating 1400+ problems, uploading more codes/
+contains cpp code for codechef rating 1400+ problems, uploading codes regularly/
