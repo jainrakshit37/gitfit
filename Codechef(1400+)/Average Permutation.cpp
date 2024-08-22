@@ -8,30 +8,18 @@ int main(){
         int a;
         cin>>a;
         int j=a;
-        int s=a+1;
-        if(j%2){
-            while(j!=s){
-                cout<<j<<" ";
-                if(j%2)
-                j-=2;
-                else
-                j+=2;
-                if(j==-1)
-                j=2;
-            }
+        while(j>=2 || j>=1){
+            cout<<j<<" ";
+            j-=2;
         }
-        else{
-            while(j!=s){
-                cout<<j<<" ";
-                if(!(j%2))
-                j-=2;
-                else
-                j+=2;
-                if(j==0)
-                j=1;
-            }
+        if(j==-1) j=2;
+        else j=1;
+        while(j<=a){
+            cout<<j<<" ";
+            j+=2;
         }
         cout<<endl;
     }
-	return 0;
+    return 0;
 }
+
