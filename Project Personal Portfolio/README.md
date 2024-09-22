@@ -3,4 +3,4 @@ this is the folder for the source code of a portfolio website, made using HTML, 
 
 i have taken help from @ShreyanshSri7 , @ahditya & other useful github repos.
 
-you can clone this folder and run the html file, i am sure it will work fine/
+you can fork this repo and run, i am sure it will work fine/
